@@ -2,3 +2,7 @@
 15.1.0
 #预览版本
 17.1.1
+
+
+
+https://github.com/Andy5338hotmailcom/wg_control_center/releases/download/v17.1.1/setup.exe
