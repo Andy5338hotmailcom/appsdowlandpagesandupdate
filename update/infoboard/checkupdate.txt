@@ -2,8 +2,8 @@
 15.1.0
 #预览版本
 17.1.1
-
-
-
+#预览版本更新包地址
+#第一行加速url
+#第二行原url
 https://gh-proxy.org/https://github.com/Andy5338hotmailcom/wg_control_center/releases/download/v17.1.1/setup.exe
 https://github.com/Andy5338hotmailcom/wg_control_center/releases/download/v17.1.1/setup.exe
