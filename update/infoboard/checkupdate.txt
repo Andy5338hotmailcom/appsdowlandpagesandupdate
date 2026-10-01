@@ -8,5 +8,5 @@
 https://gh-proxy.org/https://github.com/Andy5338hotmailcom/wg_control_center/releases/download/v17.5/setup.exe
 https://github.com/Andy5338hotmailcom/wg_control_center/releases/download/v17.5/setup.exe
 #正式版本同理
-https://gh-proxy.org/https://github.com/Andy5338hotmailcom/wg_control_center/releases/download/v17.5/setup.exe
-https://github.com/Andy5338hotmailcom/wg_control_center/releases/download/v17.5/setup.exe
+https://gh-proxy.org/https://github.com/Andy5338hotmailcom/wg_control_center/releases/download/v18/setup.exe
+https://github.com/Andy5338hotmailcom/wg_control_center/releases/download/v18/setup.exe
